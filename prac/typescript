@@ -1,0 +1,306 @@
+Script started on Fri Apr 21 15:07:45 2017
+deuce% java gradebook
+userid  : kdavis
+password: kd301628
+      PARAGON PROGRAM
+
+(1) Add Player
+(2) Add Hero
+(3) Add Game Played
+(4) Add Winner Result
+(5) Add Loser Result
+(6) Print Heros
+(7) Delete Hero
+(8) Update Hero Ability
+(q) Quit
+
+Type in your option:1
+GamerTag: k KurtisD
+kills: 44
+deaths: 33
+Wins: 22
+Losses: 11
+Favorite Hero: g Gideon
+Player added
+      PARAGON PROGRAM
+
+(1) Add Player
+(2) Add Hero
+(3) Add Game Played
+(4) Add Winner Result
+(5) Add Loser Result
+(6) Print Heros
+(7) Delete Hero
+(8) Update Hero Ability
+(q) Quit
+
+Type in your option:6
+
+Murdock   10   5   2   1   ranged
+Narbash   3   3   8   4   melee
+GRIM.exe   8   5   3   1   ranged
+Khaimera   6   4   7   4   melee
+TwinBlast   9   4   2   4   ranged
+Yin   9   3   5   6   melee
+Sparrow   10   4   2   2   ranged
+Crunch   6   4   5   6   melee
+Kwang   6   4   7   5   melee
+Shinbi   2   9   3   6   melee
+Steel   2   3   10   6   melee
+Countess   2   9   1   7   melee
+Dekker   1   6   4   6   ranged
+Gadget   2   8   2   3   ranged
+Serath   8   6   2   5   melee
+Grux   7   5   5   5   melee
+Howitzer   2   8   3   4   ranged
+Sevarog   4   4   10   3   melee
+Gideon   9   5   5   5   ranged
+Kallari   8   4   1   9   melee
+Lt. Bellica   2   7   4   2   ranged
+Aurora   7   6   3   8   melee
+Greystone   7   3   9   6   melee
+Muriel   1   5   3   6   ranged
+Rampage   4   2   8   7   melee
+Riktor   3   3   10   1   melee
+Feng Mao   7   2   5   7   ranged
+Fey   3   8   3   1   ranged
+
+      PARAGON PROGRAM
+
+(1) Add Player
+(2) Add Hero
+(3) Add Game Played
+(4) Add Winner Result
+(5) Add Loser Result
+(6) Print Heros
+(7) Delete Hero
+(8) Update Hero Ability
+(q) Quit
+
+Type in your option:2
+Name: Few y2
+Basic Damage: 1
+Ability Damage: 1
+Durability: 1
+Mobility: 1
+Type: melee
+Hero was added! Success!
+      PARAGON PROGRAM
+
+(1) Add Player
+(2) Add Hero
+(3) Add Game Played
+(4) Add Winner Result
+(5) Add Loser Result
+(6) Print Heros
+(7) Delete Hero
+(8) Update Hero Ability
+(q) Quit
+
+Type in your option:6
+
+Murdock   10   5   2   1   ranged
+Narbash   3   3   8   4   melee
+GRIM.exe   8   5   3   1   ranged
+Khaimera   6   4   7   4   melee
+TwinBlast   9   4   2   4   ranged
+Yin   9   3   5   6   melee
+Sparrow   10   4   2   2   ranged
+Crunch   6   4   5   6   melee
+Kwang   6   4   7   5   melee
+Shinbi   2   9   3   6   melee
+Steel   2   3   10   6   melee
+Countess   2   9   1   7   melee
+Dekker   1   6   4   6   ranged
+Gadget   2   8   2   3   ranged
+Serath   8   6   2   5   melee
+Grux   7   5   5   5   melee
+Howitzer   2   8   3   4   ranged
+Sevarog   4   4   10   3   melee
+Gideon   9   5   5   5   ranged
+Kallari   8   4   1   9   melee
+Lt. Bellica   2   7   4   2   ranged
+Aurora   7   6   3   8   melee
+Greystone   7   3   9   6   melee
+Muriel   1   5   3   6   ranged
+Rampage   4   2   8   7   melee
+Riktor   3   3   10   1   melee
+Fey2   1   1   1   1   melee
+Feng Mao   7   2   5   7   ranged
+Fey   3   8   3   1   ranged
+
+      PARAGON PROGRAM
+
+(1) Add Player
+(2) Add Hero
+(3) Add Game Played
+(4) Add Winner Result
+(5) Add Loser Result
+(6) Print Heros
+(7) Delete Hero
+(8) Update Hero Ability
+(q) Quit
+
+Type in your option:8
+Enter name for ability modification: Fey1 2
+Enter new basic power: 3
+Enter new ability power: 3
+Enter new Durability: 3
+Enter new Mobility speed: 3
+Enter new type: melee
+Hero updated
+      PARAGON PROGRAM
+
+(1) Add Player
+(2) Add Hero
+(3) Add Game Played
+(4) Add Winner Result
+(5) Add Loser Result
+(6) Print Heros
+(7) Delete Hero
+(8) Update Hero Ability
+(q) Quit
+
+Type in your option:6
+
+Murdock   10   5   2   1   ranged
+Narbash   3   3   8   4   melee
+GRIM.exe   8   5   3   1   ranged
+Khaimera   6   4   7   4   melee
+TwinBlast   9   4   2   4   ranged
+Yin   9   3   5   6   melee
+Sparrow   10   4   2   2   ranged
+Crunch   6   4   5   6   melee
+Kwang   6   4   7   5   melee
+Shinbi   2   9   3   6   melee
+Steel   2   3   10   6   melee
+Countess   2   9   1   7   melee
+Dekker   1   6   4   6   ranged
+Gadget   2   8   2   3   ranged
+Serath   8   6   2   5   melee
+Grux   7   5   5   5   melee
+Howitzer   2   8   3   4   ranged
+Sevarog   4   4   10   3   melee
+Gideon   9   5   5   5   ranged
+Kallari   8   4   1   9   melee
+Lt. Bellica   2   7   4   2   ranged
+Fey2   3   3   3   3   melee
+Aurora   7   6   3   8   melee
+Greystone   7   3   9   6   melee
+Muriel   1   5   3   6   ranged
+Rampage   4   2   8   7   melee
+Riktor   3   3   10   1   melee
+Feng Mao   7   2   5   7   ranged
+Fey   3   8   3   1   ranged
+
+      PARAGON PROGRAM
+
+(1) Add Player
+(2) Add Hero
+(3) Add Game Played
+(4) Add Winner Result
+(5) Add Loser Result
+(6) Print Heros
+(7) Delete Hero
+(8) Update Hero Ability
+(q) Quit
+
+Type in your option:7
+Select Hero name to delete: Fey2
+Hero deleted
+      PARAGON PROGRAM
+
+(1) Add Player
+(2) Add Hero
+(3) Add Game Played
+(4) Add Winner Result
+(5) Add Loser Result
+(6) Print Heros
+(7) Delete Hero
+(8) Update Hero Ability
+(q) Quit
+
+Type in your option:6
+
+Murdock   10   5   2   1   ranged
+Narbash   3   3   8   4   melee
+GRIM.exe   8   5   3   1   ranged
+Khaimera   6   4   7   4   melee
+TwinBlast   9   4   2   4   ranged
+Yin   9   3   5   6   melee
+Sparrow   10   4   2   2   ranged
+Crunch   6   4   5   6   melee
+Kwang   6   4   7   5   melee
+Shinbi   2   9   3   6   melee
+Steel   2   3   10   6   melee
+Countess   2   9   1   7   melee
+Dekker   1   6   4   6   ranged
+Gadget   2   8   2   3   ranged
+Serath   8   6   2   5   melee
+Grux   7   5   5   5   melee
+Howitzer   2   8   3   4   ranged
+Sevarog   4   4   10   3   melee
+Gideon   9   5   5   5   ranged
+Kallari   8   4   1   9   melee
+Lt. Bellica   2   7   4   2   ranged
+Aurora   7   6   3   8   melee
+Greystone   7   3   9   6   melee
+Muriel   1   5   3   6   ranged
+Rampage   4   2   8   7   melee
+Riktor   3   3   10   1   melee
+Feng Mao   7   2   5   7   ranged
+Fey   3   8   3   1   ranged
+
+      PARAGON PROGRAM
+
+(1) Add Player
+(2) Add Hero
+(3) Add Game Played
+(4) Add Winner Result
+(5) Add Loser Result
+(6) Print Heros
+(7) Delete Hero
+(8) Update Hero Ability
+(q) Quit
+
+Type in your option:4
+GameID: 3333
+Winner Name: KurtisD
+Kills: 5
+Deaths: 3
+Structures Destroyed: 8
+Winner was added! Success!
+      PARAGON PROGRAM
+
+(1) Add Player
+(2) Add Hero
+(3) Add Game Played
+(4) Add Winner Result
+(5) Add Loser Result
+(6) Print Heros
+(7) Delete Hero
+(8) Update Hero Ability
+(q) Quit
+
+Type in your option:5
+GameID: 111111
+Loser Name: MarkK
+Kills: 0
+Deaths: 0
+Structures Destroyed: 0
+Loser was not added! Failure!
+      PARAGON PROGRAM
+
+(1) Add Player
+(2) Add Hero
+(3) Add Game Played
+(4) Add Winner Result
+(5) Add Loser Result
+(6) Print Heros
+(7) Delete Hero
+(8) Update Hero Ability
+(q) Quit
+
+Type in your option:q
+deuce% ^D
+script done on Fri Apr 21 15:10:18 2017
